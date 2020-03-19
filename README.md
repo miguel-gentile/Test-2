@@ -4,4 +4,4 @@ This is the working repo of the OW Python Padawan self-learning course. It conta
 
 ### What does this version belong to? ###
 
-Enter your name here:
+Enter your name here: Miguel Gentile
